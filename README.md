@@ -1,4 +1,4 @@
-![image](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/bed836fb-a192-4509-b595-e274a60353e6)# EROSION-AND-DILATION
+##  EROSION-AND-DILATION
 
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
